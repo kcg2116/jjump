@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://kcg2116.github.io"
 baseurl: "/jump/" # the subpath of your site, e.g. /blog
 
-title      : 2023 자료전 멀리뛰기 최우수상
+title      : 2023 자료전 멀리뛰기
 email      : kcg2116@naver.com #this is also the email contact forms will go to
 description: "2023 멀리뛰기 매트 연구"
 author     : 김창규
